@@ -1,0 +1,8 @@
+{
+  "name": "ThinkMate AI",
+  "description": "A friendly, customizable AI learning assistant for students.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
